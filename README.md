@@ -1,3 +1,7 @@
+> **Native-tab fork:** This branch carries the Finder/native macOS tab patch from upstream PR #2225.
+> See [FORK.md](FORK.md) for builds, installation, verification and limitations.
+> Downloads: [fork releases](https://github.com/burakemirsezen/AeroSpace/releases).
+
 # AeroSpace Beta [![Build](https://github.com/nikitabobko/AeroSpace/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/nikitabobko/AeroSpace/actions/workflows/build.yml)
 
 <img src="./resources/Assets.xcassets/AppIcon.appiconset/icon.png" width="40%" align="right">
